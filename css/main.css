@@ -1,0 +1,13 @@
+.JOJO {
+	border: 1pt solid #000;
+	width: 200px;
+	height: 90px;
+	margin:auto;
+}
+p{
+	font-size: 30px;
+	padding-left: 20px
+}
+ul {
+	
+}
